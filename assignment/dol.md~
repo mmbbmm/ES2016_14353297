@@ -1,24 +1,24 @@
-> > ### Lab2 : DOL 实例分析&编程
+### Lab2 : DOL 实例分析&编程
 1. 修改后得到的截图
     1. example 1
     
-        ![image](https://github.com/mmbbmm/ES2016_14353297/blob/master/picture/lab2/example1.jpg)
+        ![image](https://github.com/mmbbmm/ES2016_14353297/blob/master/picture/lab2/example1.JPG)
     2. example 2
     
-        ![image](https://github.com/mmbbmm/ES2016_14353297/blob/master/picture/lab2/example2.jpg)
+        ![image](https://github.com/mmbbmm/ES2016_14353297/blob/master/picture/lab2/example2.JPG)
 
 2. 修改过程
     1. example1  
-        本次实验的目的是要让example1运行之后使其输出3次方，所以我们的重点应该是在如何输出，其中square.c中对输出有定义：
-        ![image](https://github.com/mmbbmm/ES2016_14353297/blob/master/picture/lab2/source/example1.1.jpg)   
+        本次实验的目的是要让example1运行之后使其输出3次方，所以我们的重点应该是在如何输出，其中square.c中对输出有定义：  
+        ![image](https://github.com/mmbbmm/ES2016_14353297/blob/master/picture/lab2/source/example1.1.JPG)   
         图中显示，原本的代码是将i进行次方操作后输出，所以我们只需要更改i的操作为进行三次方计算即可，如下图所示：  
-        ![image](https://github.com/mmbbmm/ES2016_14353297/blob/master/picture/lab2/source/example1.2.jpg)
+        ![image](https://github.com/mmbbmm/ES2016_14353297/blob/master/picture/lab2/source/example1.2.JPG)
     
     2. example2  
         本次实验想要实现的是三个square模块变为两个，在example2.xml中对square模块有定义如下：  
-        ![image](https://github.com/mmbbmm/ES2016_14353297/blob/master/picture/lab2/source/example2.1.jpg)  
+        ![image](https://github.com/mmbbmm/ES2016_14353297/blob/master/picture/lab2/source/example2.1.JPG)  
         因此，我们只需要将其中迭代的次数由3变为2即可，也就是将N的value变为2，如下图所示：  
-        ![image](https://github.com/mmbbmm/ES2016_14353297/blob/master/picture/lab2/source/example2.2.jpg)
+        ![image](https://github.com/mmbbmm/ES2016_14353297/blob/master/picture/lab2/source/example2.2.JPG)
 
 3. 实验感想
     
