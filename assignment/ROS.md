@@ -65,4 +65,4 @@ source ~/.bashrc
         下载网址：https://storage.googleapis.com/cartographer-public-data/bags/backpack_2d/cartographer_paper_deutsches_museum.bag     
         运行指令：
         >roslaunch cartographer_ros demo_backpack_2d.launch bag_filename:=${HOME}/Downloads/cartographer_paper_deutsches_museum.bag
-        在这一步的时候出现了博客上面的问题，但是尝试了博客显示的是三种解决方法，军不成功，所以不再展示最终结果
+        在这一步的时候出现了博客上面的问题，但是尝试了博客显示的是三种解决方法，均不成功，所以不再展示最终结果。
